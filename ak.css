@@ -377,6 +377,7 @@ ul.dashed li {
   }
   .ques .primary_ques {
     font-size: 1rem;
+    max-width: 90%;
     text-align: left;
   }
   .dflex_support {
